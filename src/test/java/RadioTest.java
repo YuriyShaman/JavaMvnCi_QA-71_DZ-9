@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class RadioTest {
+public class RadioTest { // Проверка
 
     @Test
     public void testNextStations() {
